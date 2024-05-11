@@ -1,0 +1,7 @@
+ PSEUDOCÓDIGO:
+   Existe mais de uma forma para resolver esse exercício, esse spoiler aqui é apenas uma delas!
+
+   1- Peça ao usuário o tamanho da altura.
+   2- Se o tamanho da altura for menor que 1 ou maior que 8 (altura < 1 || altura > 8), fique nesse passo até que o usuário insira uma entrada válida.
+   3- Itere a variável i até o tamanho da altura.
+   4- Imprima os #. [Não se esqueça da quebra de linha!]
